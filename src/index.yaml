@@ -1,0 +1,6 @@
+ProjectTitle: Start template
+
+PageList:
+- file: page.html
+  name: Главная
+  ready: 95
